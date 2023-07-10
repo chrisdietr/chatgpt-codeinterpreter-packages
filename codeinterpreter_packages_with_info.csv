@@ -1,4 +1,4 @@
-Package Name,Current Version,Latest Version,Summary
+Package Name,Codeinterpreter Version,Latest Version,Summary
 zopfli,0.2.2,0.2.2,Zopfli module for python
 zipp,3.15.0,3.16.0,Backport of pathlib-compatible object wrapper for zip files
 yarl,1.9.2,1.9.2,Yet another URL library
