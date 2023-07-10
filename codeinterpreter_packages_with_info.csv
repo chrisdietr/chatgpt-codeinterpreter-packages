@@ -1,0 +1,331 @@
+Package Name,Current Version,Latest Version,Summary
+zopfli,0.2.2,0.2.2,Zopfli module for python
+zipp,3.15.0,3.16.0,Backport of pathlib-compatible object wrapper for zip files
+yarl,1.9.2,1.9.2,Yet another URL library
+xml-python,0.4.3,0.4.3,A library for making Python objects from XML.
+XlsxWriter,3.1.2,3.1.2,A Python module for creating Excel XLSX files.
+xlrd,1.2.0,2.0.1,Library for developers to extract data from Microsoft Excel (tm) .xls spreadsheet files
+xgboost,1.4.2,1.7.6,XGBoost Python Package
+xarray,2023.1.0,2023.6.0,N-D labeled arrays and datasets in Python
+xarray-einstats,0.5.1,0.5.1,"Stats, linear algebra and einops for xarray"
+wsproto,1.2.0,1.2.0,WebSockets state-machine based protocol implementation
+wrapt,1.15.0,1.15.0,"Module for decorators, wrappers and monkey patching."
+wordcloud,1.8.1,1.9.2,A little word cloud generator
+Werkzeug,2.3.6,2.3.6,The comprehensive WSGI web application library.
+websockets,10.3,11.0.3,An implementation of the WebSocket Protocol (RFC 6455 & 7692)
+websocket-client,1.6.1,1.6.1,WebSocket client for Python with low level API options
+webencodings,0.5.1,0.5.1,Character encoding aliases for legacy web content
+weasyprint,53.3,59.0,The Awesome Document Factory
+wcwidth,0.2.6,0.2.6,Measures the displayed width of unicode strings in a terminal
+watchfiles,0.19.0,0.19.0,"Simple, modern and high performance file watching and code reload in python."
+wasabi,0.10.1,1.1.2,A lightweight console printing and formatting toolkit
+Wand,0.6.11,0.6.11,Ctypes-based simple MagickWand API binding for Python
+uvloop,0.17.0,0.17.0,Fast implementation of asyncio event loop on top of libuv
+uvicorn,0.22.0,0.22.0,The lightning-fast ASGI server.
+ujson,5.8.0,5.8.0,Ultra fast JSON encoder and decoder for Python
+tzlocal,5.0.1,5.0.1,tzinfo object for the local timezone
+typing-extensions,4.5.0,4.7.1,Backported and Experimental Type Hints for Python 3.7+
+typer,0.4.2,0.9.0,"Typer, build great CLIs. Easy to code. Based on Python type hints."
+trimesh,3.9.29,3.22.3,"Import, export, process, analyze and view triangular meshes."
+traitlets,5.9.0,5.9.0,Traitlets Python configuration system
+tqdm,4.64.0,4.65.0,"Fast, Extensible Progress Meter"
+tornado,6.3.2,6.3.2,"Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed."
+torchvision,0.11.1,0.15.2,image and video datasets and models for torch deep learning
+torchtext,0.6.0,0.15.2,Text utilities and datasets for PyTorch
+torchaudio,0.10.0,2.0.2,An audio package for PyTorch
+torch,1.10.0,2.0.1,Tensors and Dynamic neural networks in Python with strong GPU acceleration
+toolz,0.12.0,0.12.0,List processing tools and functional utilities
+tomli,2.0.1,2.0.1,A lil' TOML parser
+toml,0.10.2,0.10.2,"Python Library for Tom's Obvious, Minimal Language"
+tinycss2,1.2.1,1.2.1,A tiny CSS parser
+tifffile,2023.7.4,2023.7.4,Read and write TIFF files
+threadpoolctl,3.1.0,3.1.0,threadpoolctl
+thinc,8.0.17,8.1.10,"A refreshing functional take on deep learning, compatible with your favorite libraries"
+Theano-PyMC,1.1.2,1.1.2,Optimizing compiler for evaluating mathematical expressions on CPUs and GPUs.
+textract,1.6.4,1.6.5,extract text from any document. no muss. no fuss.
+textblob,0.15.3,0.17.1,"Simple, Pythonic text processing. Sentiment analysis, part-of-speech tagging, noun phrase parsing, and more."
+text-unidecode,1.3,1.3,The most basic Text::Unidecode port
+terminado,0.17.1,0.17.1,Tornado websocket backend for the Xterm.js Javascript terminal emulator library.
+tenacity,8.2.2,8.2.2,Retry code until it succeeds
+tabulate,0.8.9,0.9.0,Pretty-print tabular data
+tabula,1.0.5,1.0.5,Ascii table
+tables,3.6.1,3.8.0,Hierarchical datasets for Python
+sympy,1.8,1.12,Computer algebra system (CAS) in Python
+svgwrite,1.4.1,1.4.3,A Python library to create SVG drawings.
+svglib,1.1.0,1.5.1,A pure-Python library for reading and converting SVG
+statsmodels,0.12.2,0.14.0,Statistical computations and models for Python
+starlette,0.25.0,0.28.0,The little ASGI library that shines.
+stack-data,0.6.2,0.6.2,Extract data from python stack frames and tracebacks for informative displays
+srsly,2.4.6,2.4.6,Modern high-performance serialization utilities for Python
+SpeechRecognition,3.8.1,3.10.0,"Library for performing speech recognition, with support for several engines and APIs, online and offline."
+spacy,3.1.7,3.6.0,Industrial-strength Natural Language Processing (NLP) in Python
+spacy-legacy,3.0.12,3.0.12,Legacy registered functions for spaCy backwards compatibility
+soupsieve,2.4.1,2.4.1,A modern CSS selector implementation for Beautiful Soup.
+SoundFile,0.10.2,0.12.1,"An audio library based on libsndfile, CFFI and NumPy"
+sortedcontainers,2.4.0,2.4.0,"Sorted Containers -- Sorted List, Sorted Dict, Sorted Set"
+snuggs,1.4.7,1.4.7,Snuggs are s-expressions for Numpy
+sniffio,1.3.0,1.3.0,Sniff out which async library your code is running under
+smart-open,6.3.0,6.3.0,"Utils for streaming large files (S3, HDFS, GCS, Azure Blob Storage, gzip, bz2...)"
+slicer,0.0.7,0.0.7,A small package for big slicing.
+Shapely,1.7.1,2.0.1,Manipulation and analysis of geometric objects
+shap,0.39.0,0.42.0,A unified approach to explain the output of any machine learning model.
+sentencepiece,0.1.99,0.1.99,SentencePiece python wrapper
+Send2Trash,1.8.2,1.8.2,"Send file to trash natively under Mac OS X, Windows and Linux"
+semver,3.0.1,3.0.1,Python helper for Semantic Versioning (https://semver.org)
+seaborn,0.11.2,0.12.2,Statistical data visualization
+scipy,1.7.3,1.11.1,Fundamental algorithms for scientific computing in Python
+scikit-learn,1.0,1.3.0,A set of python modules for machine learning and data mining
+scikit-image,0.18.3,0.21.0,Image processing in Python
+rpds-py,0.8.8,0.8.10,Python bindings to Rust's persistent data structures (rpds)
+resampy,0.4.2,0.4.2,Efficient signal resampling
+requests,2.31.0,2.31.0,Python HTTP for Humans.
+reportlab,3.6.1,4.0.4,The Reportlab Toolkit
+regex,2023.6.3,2023.6.3,"Alternative regular expression module, to replace re."
+referencing,0.29.1,0.29.1,JSON Referencing + Python
+rdflib,6.0.0,6.3.2,"RDFLib is a Python library for working with RDF, a simple yet powerful language for representing information."
+rasterio,1.2.10,1.3.8,Fast and direct raster I/O for use with Numpy and SciPy
+rarfile,4.0,4.0,RAR archive reader for Python
+qrcode,7.3,7.4.2,QR Code image generator
+pyzmq,25.1.0,25.1.0,Python bindings for 0MQ
+pyzbar,0.1.8,0.1.9,Read one-dimensional barcodes and QR codes from Python 2 and 3.
+PyYAML,6.0,6.0,YAML parser and emitter for Python
+pyxlsb,1.0.8,1.0.10,Excel 2007-2010 Binary Workbook (xlsb) parser
+PyWavelets,1.4.1,1.4.1,"PyWavelets, wavelet transform module"
+pytz,2023.3,2023.3,"World timezone definitions, modern and historical"
+pyttsx3,2.90,2.90,"Text to Speech (TTS) library for Python 2 and 3. Works without internet connection or delay. Supports multiple TTS engines, including Sapi5, nsss, and espeak."
+python-pptx,0.6.21,0.6.21,Generate and manipulate Open XML PowerPoint (.pptx) files
+python-multipart,0.0.6,0.0.6,A streaming multipart parser for Python
+python-dotenv,1.0.0,1.0.0,Read key-value pairs from a .env file and set them as environment variables
+python-docx,0.8.11,0.8.11,Create and update Microsoft Word .docx files.
+python-dateutil,2.8.2,2.8.2,Extensions to the standard Python datetime module
+pyth3,0.7,0.7,Python text markup and conversion
+pytest,6.2.5,7.4.0,pytest: simple powerful testing with Python
+pytesseract,0.3.8,0.3.10,Python-tesseract is a python wrapper for Google's Tesseract-OCR
+pyswisseph,2.10.3.2,2.10.3.2,Python extension to the Swiss Ephemeris
+pyshp,2.1.3,2.3.1,Pure Python read/write support for ESRI Shapefile format
+pyprover,0.5.6,0.6.2,Resolution theorem proving for predicate logic in pure Python.
+pyproj,3.5.0,3.6.0,Python interface to PROJ (cartographic projections and coordinate transformations library)
+pyphen,0.14.0,0.14.0,Pure Python module to hyphenate text
+PyPDF2,1.28.6,3.0.1,"A pure-python PDF library capable of splitting, merging, cropping, and transforming PDF files"
+pyparsing,3.1.0,3.1.0,pyparsing module - Classes and methods to define and execute parsing grammars
+pypandoc,1.6.3,1.11,Thin wrapper for pandoc.
+PyNaCl,1.5.0,1.5.0,Python binding to the Networking and Cryptography (NaCl) library
+PyMuPDF,1.19.6,1.22.5,Python bindings for the PDF toolkit and renderer MuPDF
+pymc3,3.11.5,3.11.5,Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Theano
+pyluach,2.2.0,2.2.0,A Python package for dealing with Hebrew (Jewish) calendar dates.
+pylog,1.1,1.1,Python implementation of Prolog features.
+pygraphviz,1.7,1.11,Python interface to Graphviz
+Pygments,2.15.1,2.15.1,Pygments is a syntax highlighting package written in Python.
+pydyf,0.7.0,0.7.0,A low-level PDF generator.
+pydub,0.25.1,0.25.1,Manipulate audio with an simple and easy high level interface
+pydot,1.4.2,1.4.2,Python interface to Graphviz's Dot
+pydantic,1.8.2,2.0.2,Data validation using Python type hints
+pycryptodome,3.18.0,3.18.0,Cryptographic library for Python
+pycparser,2.21,2.21,C parser in Python
+pycountry,20.7.3,22.3.5,"ISO country, subdivision, language, currency and script definitions and their translations"
+py,1.11.0,1.11.0,"library with cross-python path, ini-parsing, io, code, log facilities"
+pure-eval,0.2.2,0.2.2,Safely evaluate AST nodes without side effects
+ptyprocess,0.7.0,0.7.0,Run a subprocess in a pseudo terminal
+psutil,5.9.5,5.9.5,Cross-platform lib for process and system monitoring in Python.
+pronouncing,0.2.0,0.2.0,A simple interface for the CMU pronouncing dictionary
+prompt-toolkit,3.0.39,3.0.39,Library for building powerful interactive command lines in Python
+prometheus-client,0.17.0,0.17.0,Python client for the Prometheus monitoring system.
+proglog,0.1.10,0.1.10,"Log and progress bar manager for console, notebooks, web..."
+priority,2.0.0,2.0.0,A pure-Python implementation of the HTTP/2 priority tree
+preshed,3.0.8,3.0.8,Cython hash table that trusts the keys are pre-hashed
+pooch,1.7.0,1.7.0,"""Pooch manages your Python library's sample data files: it automatically downloads and stores them in a local directory, with support for versioning and corruption checks."""
+pluggy,1.2.0,1.2.0,plugin and hook calling mechanisms for python
+plotnine,0.10.1,0.12.1,A Grammar of Graphics for Python
+plotly,5.3.0,5.15.0,"An open-source, interactive data visualization library for Python"
+platformdirs,3.8.0,3.8.1,"A small Python package for determining appropriate platform-specific dirs, e.g. a ""user data dir""."
+pkgutil-resolve-name,1.3.10,1.3.10,Resolve a name to an object.
+Pillow,8.3.2,10.0.0,Python Imaging Library (Fork)
+pickleshare,0.7.5,0.7.5,Tiny 'shelve'-like database with concurrency support
+pexpect,4.8.0,4.8.0,Pexpect allows easy control of interactive console applications.
+pdfrw,0.4,0.4,PDF file reader/writer library
+pdfplumber,0.5.28,0.9.0,"Plumb a PDF for detailed information about each char, rectangle, and line."
+pdfminer.six,20200517,20221105,PDF parser and analyzer
+pdfkit,0.6.1,1.0.0,Wkhtmltopdf python wrapper to convert html to pdf using the webkit rendering engine and qt
+pdf2image,1.16.3,1.16.3,A wrapper around the pdftoppm and pdftocairo command line tools to convert PDF to a PIL Image list.
+patsy,0.5.3,0.5.3,A Python package for describing statistical models and for building design matrices.
+pathy,0.10.2,0.10.2,pathlib.Path subclasses for local and cloud bucket storage
+parso,0.8.3,0.8.3,A Python Parser
+paramiko,3.2.0,3.2.0,SSH2 protocol library
+pandocfilters,1.5.0,1.5.0,Utilities for writing pandoc filters in python
+pandas,1.3.2,2.0.3,"Powerful data structures for data analysis, time series, and statistics"
+packaging,23.1,23.1,Core utilities for Python packages
+orjson,3.9.1,3.9.2,"Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy"
+opt-einsum,3.3.0,3.3.0,Optimizing numpys einsum function
+openpyxl,3.0.10,3.1.2,A Python library to read/write Excel 2010 xlsx/xlsm files
+opencv-python,4.5.2.54,4.8.0.74,Wrapper package for OpenCV python bindings.
+olefile,0.46,0.46,"Python package to parse, read and write Microsoft OLE2 files (Structured Storage or Compound Document, Microsoft Office)"
+odfpy,1.4.1,1.4.1,Python API and tools to manipulate OpenDocument files
+numpy,1.21.2,1.25.1,Fundamental package for array computing in Python
+numpy-financial,1.0.0,1.0.0,Simple financial functions
+numexpr,2.8.4,2.8.4,Fast numerical expression evaluator for NumPy
+numba,0.57.1,0.57.1,compiling Python code using LLVM
+notebook,6.5.1,6.5.4,A web-based notebook environment for interactive computing
+notebook-shim,0.2.3,0.2.3,A shim layer for notebook traits and config
+nltk,3.6.3,3.8.1,Natural Language Toolkit
+networkx,2.6.3,3.1,Python package for creating and manipulating graphs and networks
+nest-asyncio,1.5.6,1.5.6,Patch asyncio to allow nested event loops
+nbformat,5.9.0,5.9.0,The Jupyter Notebook format
+nbconvert,7.6.0,7.6.0,Converting Jupyter Notebooks
+nbclient,0.8.0,0.8.0,A client library for executing notebooks. Formerly nbconvert's ExecutePreprocessor.
+nbclassic,1.0.0,1.0.0,Jupyter Notebook as a Jupyter Server extension.
+nashpy,0.0.35,0.0.37,A library with algorithms on 2 player games.
+mutagen,1.45.1,1.46.0,read and write audio tags for many formats
+mpmath,1.3.0,1.3.0,Python library for arbitrary-precision floating-point arithmetic
+moviepy,1.0.3,1.0.3,Video editing with Python
+monotonic,1.6,1.6,An implementation of time.monotonic() for Python 2 & < 3.3
+mne,0.23.4,1.4.2,MNE-Python project for MEG and EEG data analysis.
+mizani,0.9.2,0.9.2,Scales for Python
+mistune,3.0.1,3.0.1,A sane and fast Markdown parser with useful plugins and renderers
+matplotlib,3.4.3,3.7.2,Python plotting package
+matplotlib-venn,0.11.6,0.11.9,Functions for plotting area-proportional two- and three-way Venn diagrams in matplotlib.
+matplotlib-inline,0.1.6,0.1.6,Inline Matplotlib backend for Jupyter
+MarkupSafe,2.1.3,2.1.3,Safely add untrusted strings to HTML/XML markup.
+markdownify,0.9.3,0.11.6,Convert HTML to markdown.
+markdown2,2.4.9,2.4.9,A fast and complete Python implementation of Markdown
+mako,1.1.6,1.2.4,A super-fast templating language that borrows the best ideas from the existing templating languages.
+lxml,4.9.3,4.9.3,Powerful and Pythonic XML processing library combining libxml2/libxslt with the ElementTree API.
+loguru,0.5.3,0.7.0,Python logging made (stupidly) simple
+llvmlite,0.40.1,0.40.1,lightweight wrapper around basic LLVM functionality
+librosa,0.8.1,0.10.0.post2,Python module for audio and music processing
+korean-lunar-calendar,0.3.1,0.3.1,Korean Lunar Calendar
+kiwisolver,1.4.4,1.4.4,A fast implementation of the Cassowary constraint solver
+kerykeion,2.1.16,3.4.2,A python library for astrology.
+keras,2.6.0,2.13.1,Deep learning for humans.
+jupyterlab,3.4.8,4.0.2,JupyterLab computational environment
+jupyterlab-server,2.19.0,2.23.0,A set of server components for JupyterLab and JupyterLab like applications.
+jupyterlab-pygments,0.2.2,0.2.2,Pygments theme using JupyterLab CSS variables
+jupyter-server,1.23.5,2.7.0,"The backend—i.e. core services, APIs, and REST endpoints—to Jupyter web applications."
+jupyter-core,5.1.3,5.3.1,Jupyter core package. A base package on which Jupyter projects rely.
+jupyter-client,7.4.9,8.3.0,Jupyter protocol implementation and client libraries
+jsonschema,4.18.0,4.18.0,An implementation of JSON Schema validation for Python
+jsonschema-specifications,2023.6.1,2023.6.1,"The JSON Schema meta-schemas and vocabularies, exposed as a Registry"
+jsonpickle,3.0.1,3.0.1,Python library for serializing any arbitrary object graph into JSON
+json5,0.9.14,0.9.14,A Python implementation of the JSON5 data format.
+joblib,1.3.1,1.3.1,Lightweight pipelining with Python functions
+Jinja2,3.1.2,3.1.2,A very fast and expressive template engine.
+jedi,0.18.2,0.18.2,An autocompletion tool for Python that can be used for text editors.
+jax,0.2.28,0.4.13,"Differentiate, compile, and transform Numpy code."
+itsdangerous,2.1.2,2.1.2,Safely pass data to untrusted environments and back.
+isodate,0.6.1,0.6.1,An ISO 8601 date/time/duration parser and formatter
+ipython,8.12.2,8.14.0,IPython: Productive Interactive Computing
+ipython-genutils,0.2.0,0.2.0,Vestigial utilities from IPython
+ipykernel,6.24.0,6.24.0,IPython Kernel for Jupyter
+iniconfig,2.0.0,2.0.0,brain-dead simple config-ini parsing
+importlib-resources,5.12.0,6.0.0,Read resources from Python packages
+importlib-metadata,6.7.0,6.8.0,Read metadata from Python packages
+imgkit,1.2.2,1.2.3,Wkhtmltopdf python wrapper to convert html to image using the webkit rendering engine and qt
+IMAPClient,2.1.0,2.3.1,"Easy-to-use, Pythonic and complete IMAP client library"
+imageio,2.31.1,2.31.1,"Library for reading and writing a wide range of image, video, scientific, and volumetric data formats."
+imageio-ffmpeg,0.4.8,0.4.8,FFMPEG wrapper for Python
+hyperframe,6.0.1,6.0.1,HTTP/2 framing layer for Python
+hypercorn,0.14.3,0.14.4,A ASGI Server based on Hyper libraries and inspired by Gunicorn
+httpx,0.24.1,0.24.1,The next generation HTTP client.
+httptools,0.6.0,0.6.0,A collection of framework independent HTTP protocol utils.
+httpcore,0.17.3,0.17.3,A minimal low-level HTTP client.
+html5lib,1.1,1.1,HTML parser based on the WHATWG HTML specification
+hpack,4.0.0,4.0.0,Pure-Python HPACK header compression
+h11,0.14.0,0.14.0,"A pure-Python, bring-your-own-I/O implementation of HTTP/1.1"
+h5py,3.4.0,3.9.0,Read and write HDF5 files from Python
+h5netcdf,1.1.0,1.2.0,netCDF4 via h5py
+gTTS,2.2.3,2.3.2,"gTTS (Google Text-to-Speech), a Python library and CLI tool to interface with Google Translate text-to-speech API"
+graphviz,0.17,0.20.1,Simple Python interface for Graphviz
+gradio,2.2.15,3.36.1,Python library for easily interacting with trained machine learning models
+geopy,2.2.0,2.3.0,Python Geocoding Toolbox
+geopandas,0.10.2,0.13.2,Geographic pandas extensions
+geographiclib,1.52,2.0,The geodesic routines from GeographicLib
+gensim,4.1.0,4.3.1,Python framework for fast Vector Space Modelling
+fuzzywuzzy,0.18.0,0.18.0,Fuzzy string matching in python
+future,0.18.3,0.18.3,Clean single-source support for Python 3 and 2
+frozenlist,1.3.3,1.3.3,A list-like structure which implements collections.abc.MutableSequence
+fpdf,1.7.2,1.7.2,Simple PDF generation for Python
+ffmpeg-python,0.2.0,0.2.0,Python bindings for FFmpeg - with complex filtering support
+fastprogress,1.0.3,1.0.3,A nested progress with plotting options for fastai
+fastjsonschema,2.17.1,2.17.1,Fastest Python implementation of JSON schema
+fastapi,0.92.0,0.100.0,"FastAPI framework, high performance, easy to learn, fast to code, ready for production"
+Faker,8.13.2,18.13.0,Faker is a Python package that generates fake data for you.
+extract-msg,0.28.7,0.41.5,Extracts emails and attachments saved in Microsoft Outlook's .msg files
+executing,1.2.0,1.2.0,"Get the currently executing AST node of a frame, and other information"
+exchange-calendars,3.4,4.2.8,Calendars for securities exchanges
+exceptiongroup,1.1.2,1.1.2,Backport of PEP 654 (exception groups)
+et-xmlfile,1.1.0,1.1.0,An implementation of lxml.xmlfile for the standard library
+entrypoints,0.4,0.4,Discover and load entry points from installed packages.
+email-validator,2.0.0.post2,2.0.0.post2,A robust email address syntax and deliverability validation library.
+einops,0.3.2,0.6.1,A new flavour of deep learning operations
+EbookLib,0.18,0.18,Ebook library which can handle EPUB2/EPUB3 and Kindle format
+ebcdic,1.1.1,1.1.1,Additional EBCDIC codecs
+docx2txt,0.8,0.8,A pure python-based utility to extract text and images from docx files.
+dnspython,2.3.0,2.3.0,DNS toolkit
+dlib,19.22.1,19.24.2,A toolkit for making real world machine learning and data analysis applications
+dill,0.3.6,0.3.6,serialize all of python
+deprecat,2.1.1,2.1.1,"Python @deprecat decorator to deprecate old python classes, functions or methods."
+defusedxml,0.7.1,0.7.1,XML bomb protection for Python stdlib modules
+decorator,4.4.2,5.1.1,Decorators for Humans
+debugpy,1.6.7,1.6.7,An implementation of the Debug Adapter Protocol for Python
+cymem,2.0.7,2.0.7,Manage calls to calloc/free through Cython
+cycler,0.11.0,0.11.0,Composable style cycles
+cssselect2,0.7.0,0.7.0,CSS selectors for Python ElementTree
+cryptography,3.4.8,41.0.1,cryptography is a package which provides cryptographic recipes and primitives to Python developers.
+countryinfo,0.1.2,0.1.2,"countryinfo is a python module for returning data about countries, ISO info and states/provinces within them."
+compressed-rtf,1.0.6,1.0.6,Compressed Rich Text Format (RTF) compression and decompression package
+comm,0.1.3,0.1.3,"Jupyter Python Comm implementation, for usage in ipykernel, xeus-python etc."
+cmudict,1.0.13,1.0.13,A versioned python wrapper package for The CMU Pronouncing Dictionary data files.
+cloudpickle,2.2.1,2.2.1,Extended pickling support for Python objects
+cligj,0.7.2,0.7.2,Click params for commmand line interfaces to GeoJSON
+click,8.1.4,8.1.4,Composable command line interface toolkit
+click-plugins,1.1.1,1.1.1,An extension module for click to enable registering CLI commands via setuptools entry-points.
+charset-normalizer,2.1.1,3.2.0,"The Real First Universal Charset Detector. Open, modern and actively maintained alternative to Chardet."
+chardet,4.0.0,5.1.0,Universal encoding detector for Python 3
+cffi,1.15.1,1.15.1,Foreign Function Interface for Python calling C code.
+catalogue,2.0.8,2.0.8,Super lightweight function registries for your library
+camelot-py,0.10.1,0.11.0,PDF Table Extraction for Humans.
+CairoSVG,2.5.2,2.7.0,A Simple SVG Converter based on Cairo
+cairocffi,1.6.0,1.6.0,cffi-based cairo bindings for Python
+cachetools,5.3.1,5.3.1,Extensible memoizing collections and decorators
+Brotli,1.0.9,1.0.9,Python bindings for the Brotli compression library
+branca,0.6.0,0.6.0,Generate complex HTML+JS pages with Python
+bokeh,2.4.0,3.2.0,Interactive plots and applications in the browser from Python
+blis,0.7.9,0.9.1,"The Blis BLAS-like linear algebra library, as a self-contained C-extension."
+blinker,1.6.2,1.6.2,"Fast, simple object-to-object and broadcast signaling"
+bleach,6.0.0,6.0.0,An easy safelist-based HTML-sanitizing tool.
+beautifulsoup4,4.12.2,4.12.2,Screen-scraping library
+bcrypt,4.0.1,4.0.1,Modern password hashing for your software and your servers
+basemap,1.3.2,1.3.7,Plot data on map projections with matplotlib
+basemap-data,1.3.2,1.3.2,Data assets for matplotlib basemap
+backports.zoneinfo,0.2.1,0.2.1,Backport of the standard library zoneinfo module
+backoff,1.10.0,2.2.1,Function decoration for backoff and retry
+backcall,0.2.0,0.2.0,Specifications for callback functions passed in to an API
+Babel,2.12.1,2.12.1,Internationalization utilities
+audioread,3.0.0,3.0.0,"multi-library, cross-platform audio decoding"
+attrs,23.1.0,23.1.0,Classes Without Boilerplate
+async-timeout,4.0.2,4.0.2,Timeout context manager for asyncio programs
+asttokens,2.2.1,2.2.1,Annotate AST trees with source code positions
+arviz,0.15.1,0.15.1,Exploratory analysis of Bayesian models
+argon2-cffi,21.3.0,21.3.0,The secure Argon2 password hashing algorithm.
+argon2-cffi-bindings,21.2.0,21.2.0,Low-level CFFI bindings for Argon2
+argcomplete,1.10.3,3.1.1,Bash tab completion for argparse
+anytree,2.8.0,2.9.0,Powerful and Lightweight Python Tree Data Structure with various plugins
+anyio,3.7.1,3.7.1,High level compatibility layer for multiple asynchronous event loop implementations
+analytics-python,1.4.post1,1.4.post1,The hassle-free way to integrate analytics into any python application.
+aiosignal,1.3.1,1.3.1,aiosignal: a list of registered asynchronous callbacks
+aiohttp,3.8.1,3.8.4,Async http client/server framework (asyncio)
+affine,2.4.0,2.4.0,Matrices describing affine transformation of the plane
+absl-py,1.4.0,1.4.0,"Abseil Python Common Libraries, see https://github.com/abseil/abseil-py."
+wheel,0.34.2,0.40.0,A built-package format for Python
+urllib3,1.25.8,2.0.3,"HTTP library with thread-safe connection pooling, file post, and more."
+unattended-upgrades,0.1,,
+six,1.14.0,1.16.0,Python 2 and 3 compatibility utilities
+setuptools,45.2.0,68.0.0,"Easily download, build, install, upgrade, and uninstall Python packages"
+requests-unixsocket,0.2.0,0.3.0,Use requests to talk HTTP via a UNIX domain socket
+python-apt,2.0.1+ubuntu0.20.4.1,0.7.8,Python bindings for libapt.
+PyGObject,3.36.0,3.44.1,Python bindings for GObject Introspection
+PyAudio,0.2.11,0.2.13,Cross-platform audio I/O with PortAudio
+pip,20.0.2,23.1.2,The PyPA recommended tool for installing Python packages.
+idna,2.8,3.4,Internationalized Domain Names in Applications (IDNA)
+distro-info,0.23ubuntu1,1.0,
+dbus-python,1.2.16,1.3.2,Python bindings for libdbus
+certifi,2019.11.28,2023.5.7,Python package for providing Mozilla's CA Bundle.
